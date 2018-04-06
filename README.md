@@ -24,7 +24,7 @@ http://www.chenleiming.com
 ![image](https://github.com/ClmPisces/vuechat/blob/master/gif/gif1.gif)
 
 ### 聊天和与机器人聊天
-#### 注意： 和机器人聊天@小美要有空格，否则会当成普通消息
+#### 注意： 和机器人聊天@小美和消息中间要有空格，否则会当成普通消息
 
 ![image](https://github.com/ClmPisces/vuechat/blob/master/gif/gif2.gif)
 
