@@ -8,6 +8,14 @@ http://www.chenleiming.com
 本项目基于vue.js+socket.io+express+mongodb实现的聊天效果，
 界面以及功能参考QQ，微信
 
+## 技术栈
+* 前端： vue,vue-router,vuex,axios
+* 构建： webpack，vue-cli
+* 后端： express，multer(上传图片)，cors(跨域处理), superagent(调用机器人接口),mongoose(操作数据库)
+* 通讯： socket.io
+* 数据库： mongodb
+* css预处理器： sass
+
 ## 功能列表
 
 * 用户注册
