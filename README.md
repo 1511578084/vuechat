@@ -24,7 +24,7 @@ http://www.chenleiming.com
 ![image](https://github.com/ClmPisces/vuechat/blob/master/gif/gif1.gif)
 
 ### 聊天和与机器人聊天
-##（注意： 和机器人聊天@小美要有空格，否则会当成普通消息
+#### 注意： 和机器人聊天@小美要有空格，否则会当成普通消息
 
 ![image](https://github.com/ClmPisces/vuechat/blob/master/gif/gif2.gif)
 
@@ -37,7 +37,7 @@ http://www.chenleiming.com
 ![image](https://github.com/ClmPisces/vuechat/blob/master/gif/gif4.gif)
 
 ### 设置下拉框展示
-##（注意：目前只有退出账号功能，后面会把另外两个功能加上)
+#### 注意：目前只有退出账号功能，后面会把另外两个功能加上
 
 ![image](https://github.com/ClmPisces/vuechat/blob/master/gif/gif5.gif)
 
