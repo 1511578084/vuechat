@@ -37,6 +37,7 @@ http://www.chenleiming.com
 ![image](https://github.com/ClmPisces/vuechat/blob/master/gif/gif4.gif)
 
 ### 设置下拉框展示
+
 ##（注意：目前只有退出账号功能，后面会把另外两个功能加上）
 ![image](https://github.com/ClmPisces/vuechat/blob/master/gif/gif5.gif)
 
