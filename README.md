@@ -1,21 +1,21 @@
-# vuechat
+# vue+socket.io聊天项目
 
-> A Vue.js project
+# 在线地址观看
+http://www.chenleiming.com
 
-## Build Setup
+## 介绍
 
-``` bash
-# install dependencies
-npm install
+本项目基于vue.js+socket.io+express+mongodb实现的聊天效果，
+界面以及功能参考QQ，微信
 
-# serve with hot reload at localhost:8080
-npm run dev
+## 功能列表
 
-# build for production with minification
-npm run build
+* 用户注册
+* 用户登录
+* 群聊
+* 群聊中@小美 和机器人聊天
+* 机器人聊天
+* 留言板
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+## 功能展示
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
